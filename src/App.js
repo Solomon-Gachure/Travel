@@ -2,6 +2,7 @@ import Hero from "./components/hero";
 import Navbar from "./components/navbar";
 import Offers from "./components/offers";
 import Plan from "./components/plan";
+import Rooms from "./components/rooms";
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <Offers />
       <Plan/>
+      <Rooms/>
     </div>
   );
 }
