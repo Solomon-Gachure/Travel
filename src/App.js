@@ -1,9 +1,10 @@
+import Hero from "./components/hero";
 
 
 function App() {
   return (
     <div>
-      hey
+      <Hero/>
 
     </div>
   );
